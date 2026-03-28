@@ -1,0 +1,42 @@
+# Dynamic Gravity Tic Tac Toe
+
+## Description  
+This project is a Python-based terminal game that enhances the classic Tic Tac Toe by introducing a dynamic gravity mechanic. Players can place their marks and also change the direction of gravity during the game, which rearranges all pieces on the board. The objective is to create a more strategic and interactive gameplay experience while practicing Python programming and game logic.
+
+## Dataset  
+- Source: Not applicable (Game-based project)  
+- Description of data:  
+  This project does not use any external dataset. The game state is managed internally using a 4x4 grid where player moves and gravity changes dynamically update the board.
+
+## Steps Performed  
+1. Data Cleaning  
+   - Not applicable  
+
+2. Exploratory Data Analysis  
+   - Not applicable  
+
+3. Visualization  
+   - Terminal-based board visualization using formatted print statements  
+
+4. Model Building (if applicable)  
+   - Not applicable (Rule-based logic used)
+
+## Results  
+- Key findings:  
+  - Successfully developed a 2-player interactive game  
+  - Gravity switching adds a strategic layer to gameplay  
+  - Accurate win detection (horizontal, vertical, diagonal)  
+  - Proper handling of draw conditions  
+
+- Metrics (if applicable):  
+  - Not applicable  
+
+## Tools Used  
+- Python  
+- Standard Library (os)  
+
+## Conclusion  
+This project shows how simple games can be made more engaging by introducing creative mechanics like gravity switching. It strengthens understanding of programming concepts such as loops, conditions, and object-oriented design.
+
+## Author  
+Swaraj palaskar  
